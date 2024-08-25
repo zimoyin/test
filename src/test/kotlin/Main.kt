@@ -1,10 +1,12 @@
-package com.github
+import com.github.Test
 
 /**
  *
  * @author : zimo
  * @date : 2024/08/25
  */
+
+
 fun main() {
-    println("Hello World!")
+    Test().test()
 }
